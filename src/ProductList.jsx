@@ -310,7 +310,7 @@ function ProductList() {
               src="https://cdn-icons-png.freepik.com/512/6982/6982341.png"
               alt=""
             />
-            <a href="/" style={{ textDecoration: "none" }}>
+            <a href="/e-plantShopping/" style={{ textDecoration: "none" }}>
               <div>
                 <h3 style={{ color: "white" }}>Paradise Nursery</h3>
                 <i style={{ color: "white" }}>Where Green Meets Serenity</i>
